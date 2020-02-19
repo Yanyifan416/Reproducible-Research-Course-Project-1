@@ -164,7 +164,7 @@ in GitHub by doing the following:
 A valid submission will look something like (this is just an **example**!)
 
 ```r
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Yanyifan416/Reproducible-Research-Course-Project-1.git
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
